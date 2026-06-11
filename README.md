@@ -9,4 +9,4 @@ Research assistant at Spade Lab, working on data privacy and security.
 - Computational Biology
 
 ## Languages & Tools
-Python | Pandas | Scikit-learn | Matplotlib
+Python | Java | Pandas | Scikit-learn | Matplotlib
