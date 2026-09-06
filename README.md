@@ -5,6 +5,7 @@ Second-year CS & Mathematics student at Koç University (GPA: 3.84/4.00). Resear
 ## 🔭 Currently
 - Working as a Research Assistant at **Spade Lab**, focused on data privacy and security
 - Completed a summer internship building and systematically evaluating a **recommendation system** on real-world e-commerce interaction data
+- Building Transformer architectures from scratch to develop a mechanistic understanding of attention, backpropagation, and training dynamics
 
 ## 🧠 Interests
 - Machine Learning & LLMs
@@ -12,6 +13,10 @@ Second-year CS & Mathematics student at Koç University (GPA: 3.84/4.00). Resear
 - Computational Biology
 
 ## 📌 Featured Projects
+
+**[Sequential Recommender with Attention (from scratch)](https://github.com/mcagangoktas/sequential-recommender)**
+A GPT-style, decoder-only Transformer built from scratch (no pre-built attention modules) for sequential recommendation on MovieLens-1M — predicting a user's next interaction from their chronological history rather than treating it as an unordered set. Identified and analyzed a clear overfitting signature via train/validation loss divergence, and used per-head attention visualization to distinguish heads that learned a robust "attend to the most recent interaction" pattern from heads with more ambiguous, possibly memorization-driven behavior.
+`Python` `PyTorch` `Attention Mechanisms` `Transformers`
 
 **[Recommender System Internship](https://github.com/mcagangoktas/recommender-system-internship)**
 End-to-end recommendation system project built during a summer internship, comparing 12+ models (popularity, KNN, matrix factorization, ALS, BM25, SBERT/LLM embeddings, hybrid and two-stage reranking, Two-Tower neural architectures) on 7M+ real user interactions. Focus is on systematic evaluation methodology and honestly documented findings, including a deep dive into item cold-start behavior across models.
@@ -22,7 +27,7 @@ Classified two endangered, closely related salamander species endemic to Turkey 
 `Python` `Pandas` `Scikit-learn`
 
 ## 🛠️ Languages & Tools
-Python | Java | Pandas | Scikit-learn | Matplotlib
+Python | Java | Pandas | Scikit-learn | Matplotlib | PyTorch
 
 ## 📫 Reach Me
 [LinkedIn](https://www.linkedin.com/in/mcagangoktas)
