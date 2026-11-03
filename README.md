@@ -1,6 +1,6 @@
 # Hi, I'm Muhammed Çağan Göktaş 👋
 
-Second-year CS student at Koç University (GPA: 3.84/4.00). Currently doing research in **Prof. Deniz Yüret's lab**.
+Second-year Computer Science student with a minor in Artificial Intelligence at Koç University (GPA: 3.84/4.00). Currently doing research in **Prof. Deniz Yüret's lab**.
 
 ## 🔭 Currently
 - Research in Prof. Deniz Yüret's lab at Koç University
