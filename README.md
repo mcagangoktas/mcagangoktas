@@ -1,14 +1,18 @@
 # Hi, I'm Muhammed Çağan Göktaş 👋
 
-Second-year CS & Mathematics student at Koç University (GPA: 3.84/4.00). Research assistant at Spade Lab, working on data privacy and security.
+Second-year CS student at Koç University (GPA: 3.84/4.00). Currently doing research in **Prof. Deniz Yüret's lab**.
 
 ## 🔭 Currently
-- Working as a Research Assistant at **Spade Lab**, focused on data privacy and security
-- Completed a summer internship building and systematically evaluating a **recommendation system** on real-world e-commerce interaction data
+- Research in Prof. Deniz Yüret's lab at Koç University
 - Building Transformer architectures from scratch to develop a mechanistic understanding of attention, backpropagation, and training dynamics
+
+## 🧭 Previously
+- Research Assistant at **Spade Lab**, working on data privacy and security
+- Summer internship building and systematically evaluating a **recommendation system** on real-world e-commerce interaction data
 
 ## 🧠 Interests
 - Machine Learning & LLMs
+- Interpretability
 - Data Privacy & Security
 - Computational Biology
 
@@ -27,7 +31,7 @@ Classified two endangered, closely related salamander species endemic to Turkey 
 `Python` `Pandas` `Scikit-learn`
 
 ## 🛠️ Languages & Tools
-Python | Java | Pandas | Scikit-learn | Matplotlib | PyTorch
+Python | Java | PyTorch | Pandas | Scikit-learn | Matplotlib
 
 ## 📫 Reach Me
 [LinkedIn](https://www.linkedin.com/in/mcagangoktas)
